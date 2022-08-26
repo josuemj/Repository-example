@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
+//This must be right into the code
 public class MainArray {
     public static void main(String[] args) {
         boolean run = true;
