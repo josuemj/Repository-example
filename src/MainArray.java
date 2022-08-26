@@ -13,6 +13,7 @@ public class MainArray {
             input.nextLine();
             switch(option){
                 case 1:
+                    System.out.println("HELLO THERE GITT!!!!!!");
                     System.out.println("\nIntroduce element:");
                     String element = input.nextLine();
                     dynamicArray.add(element);
