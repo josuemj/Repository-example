@@ -6,6 +6,7 @@ public class MainArray {
         boolean run = true;
         ArrayList<String> dynamicArray = new ArrayList<>();
         Scanner input = new Scanner(System.in);
+
         System.out.println("Hello world!");
         while (run){
             System.out.println("\nWelcome to the dynamic arrive string");
